@@ -1,3 +1,5 @@
+<header>
+
 # This is 'header'
 
 <!--
@@ -73,6 +75,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 -->
 
 ---
+</footer>
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
