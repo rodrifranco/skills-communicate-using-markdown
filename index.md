@@ -1,10 +1,16 @@
 <header>
-#My name is Rodri, I'm 23 years old, and I´m learning how to use GitHub
-## 2
-### 3
-#### 4
-##### 5
-###### 6
+# My name is Rodri, I'm 23 years old, and I´m learning how to use GitHub
+  This is h1
+## h2
+  this is h2
+### h3
+  this is h3
+#### h4
+  this is h4
+##### h5
+  this is h5
+###### h6
+  this is h6
 
 </header>
 
