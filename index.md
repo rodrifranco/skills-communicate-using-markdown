@@ -4,3 +4,8 @@
 </header>
 
 ![Image of Messi Goat](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg)
+
+``` javascript
+hola = "Hola mundo";
+console.log(hola)
+```
