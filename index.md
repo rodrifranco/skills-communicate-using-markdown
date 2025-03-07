@@ -9,3 +9,9 @@
 hola = "Hola mundo";
 console.log(hola)
 ```
+
+### This is a checklist 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
